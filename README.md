@@ -1,4 +1,4 @@
-# monkeyStressTest
+# Monkey Stress Test
 
 Bash script to run stress test with monkey tools
 
